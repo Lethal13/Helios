@@ -1,2 +1,2 @@
 # Helios
-A Cpu-based raytracer.
+A cpu-based raytracer.
